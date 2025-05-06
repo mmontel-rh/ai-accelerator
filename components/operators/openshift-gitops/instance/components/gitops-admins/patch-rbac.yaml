@@ -7,3 +7,5 @@ spec:
     policy: |-
       g, system:cluster-admins, role:admin
       g, gitops-admins, role:admin
+      # This group can be used to give admin access to all ArgoCD resources ouside of git
+      g, custom-gitops-admins, role:admin
