@@ -36,3 +36,4 @@ Once the initial components are deployed, several ArgoCD Application objects are
 ### Tenants
 
 * [Tenant Examples](tenants/)
+
